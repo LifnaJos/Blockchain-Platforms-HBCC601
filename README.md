@@ -42,13 +42,13 @@ Corda, Ripple, Quorum, and other emerging blockchain platforms, Case Study on an
 **Self-learning Topics:** Compare different blockchain platforms.
 
 ## Text Books & References :
-1. Blockchain Technology, Chandramouli Subramanian, Asha A George, Abhillash K.
-A and MeenaKarthikeyen, Universities press.
-2. Mastering Ethereum, Building Smart Contract and Dapps, Andreas M. Antonopoulos, Dr. Gavin Wood, O'reilly.
+1. [Blockchain Technology, Chandramouli Subramanian, Asha A George, Abhillash K.
+A and MeenaKarthikeyen, Universities press.](https://www.universitiespress.com/details?id=9789389211634)
+2. [Mastering Ethereum, Building Smart Contract and Dapps, Andreas M. Antonopoulos, Dr. Gavin Wood, O'reilly.](https://drive.google.com/file/d/12gMxWvGSquUEQfWpEFenwgMHIY57JcE7/view?usp=sharing)
 3. Blockchain for Beginners, Yathish R and Tejaswini N, SPD
-4. Blockchain Basics, A non Technical Introduction in 25 Steps, Daniel Drescher, Apress.
-5. Blockchain with Hyperledger Fabric, LucDesrosiers, Nitin Gaur, Salman A. Baset, Venkatraman Ramakrishna, Packt Publishing
-6. Blockchain By Example, BellajBadr, Richard Horrocks, Xun (Brian) Wu, November 2018, Implement decentralized blockchain applications to build scalable Dapps.
+4. [Blockchain Basics, A non Technical Introduction in 25 Steps, Daniel Drescher, Apress.](https://drive.google.com/file/d/1L6TCfOr8iZ3AZRgQ3QRp8Ypkir7F7op5/view?usp=sharing)
+5. [Blockchain with Hyperledger Fabric, LucDesrosiers, Nitin Gaur, Salman A. Baset, Venkatraman Ramakrishna, Packt Publishing](https://drive.google.com/file/d/1e0wnzWfuTeObsafABwzr8qTuHztGrD_b/view?usp=sharing)
+6. [Blockchain By Example, BellajBadr, Richard Horrocks, Xun (Brian) Wu, November 2018, Implement decentralized blockchain applications to build scalable Dapps.](https://github.com/PacktPublishing/Blockchain-By-Example)
 7. [Blockchain for Business](https://www.ibm.com/downloads/cas/3EGWKGX7)
 
 ## YoutTube:
