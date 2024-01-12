@@ -1,7 +1,7 @@
 # [Course : Blockchain Platforms (HBCC601)](https://drive.google.com/file/d/1Xg1zvJLgZRtb1hV_OyMsiTwiiQtl_i--/view?usp=drive_link)
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
-Evaluation Scheme
+[Evaluation Scheme](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_HD_Sem6_Scheme.pdf)
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
