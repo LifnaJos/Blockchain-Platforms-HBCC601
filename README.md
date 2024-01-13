@@ -6,7 +6,9 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 Prerequisite: Introduction to Blockchain and Bitcoin
 
 ## Module - 1:  Introduction to Blockchain Platforms					
-Why Blockchain Platform: Platform types, Public, Private, technology requirements for implementation. Introduction to Ethereum, Hyperledger, and Smart Contracts. Case study of blockchain Application.
+* Why Blockchain Platform: Platform types, Public, Private, technology requirements for implementation.
+* Introduction to Ethereum, Hyperledger, and Smart Contracts.
+* [Case study of blockchain Application.](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Blockchain_CaseStudies.pdf)
 
 **Self-learning Topics:** Study different applications of blockchain.
 
