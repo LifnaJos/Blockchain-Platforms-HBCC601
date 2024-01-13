@@ -5,7 +5,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
-## Module - 1:  Introduction to Blockchain Platforms					
+## [Module - 1:  Introduction to Blockchain Platforms](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/M1_BP_HD.pdf)
 * Why Blockchain Platform: Platform types, Public, Private, technology requirements for implementation.
 * Introduction to Ethereum, Hyperledger, and Smart Contracts.
 * [Case study of blockchain Application.](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Blockchain_CaseStudies.pdf)
