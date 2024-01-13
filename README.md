@@ -3,9 +3,10 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## [Evaluation Scheme](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_HD_Sem6_Scheme.pdf)
 *Prefered Continuous Assessement Rubrics*
+
 *=======================================* 
 1. [Case Study - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)
-2. [Extra Experiment - 10 Marks]
+2. [Extra Experiment - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md)
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
