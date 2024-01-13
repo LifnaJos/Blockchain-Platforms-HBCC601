@@ -7,8 +7,7 @@
 | 3. | [Implement the embedding wallet (Metamask) and transaction using Solidity](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md#experiment--no-3) |
 | 4. | [Implement a Private Ethereum  Blockchain using Geth](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md#experiment--no--4) |
 
-## Experiment  No: 1
-*AIM:* Cryptography in Blockchain, Merkle root Tree Hash
+## Experiment  No: 1 - Cryptography in Blockchain, Merkle root Tree Hash
 
 *Task to be performed :*
 
@@ -52,13 +51,11 @@
 -- To construct a Merkle Tree for the given transactions
 3. Prepare a document with Aim, Tasks performed, Program, Output and Conclusion.
 
-## Experiment  No: 2
-
-*AIM:* Hands on Solidity Programming Assignments for creating Smart Contracts
+## Experiment  No: 2 - Hands-on Solidity Programming Assignments for creating Smart Contracts
 
 *Task to be performed :*
 1. Go to [LearnETH Tutorials](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null) provided by Remix IDE
-2. Explore through Solidity Basics Course
+2. Explore through the Solidity Basics Course
 3. Complete all the 19 Assignments provided with the Course
 
 *Tools & Libraries used :* Remix IDE
@@ -67,19 +64,17 @@
 1. Primitive Data Types, Variables, Functions - pure, view
 2. Inputs and Outputs to Functions
 3. Visibility, Modifiers and Constructors
-4. Control Flow : if-else, loops
-5. Data Structures : Arrays, Mappings, structs, enums
+4. Control Flow: if-else, loops
+5. Data Structures: Arrays, Mappings, structs, enums
 6. Data Locations
-7. Transactions : Ether and wei, Gas and Gas Price, Sending Transactions
+7. Transactions: Ether and wei, Gas and Gas Price, Sending Transactions
 
 *Outcome :*
 1. Understood the basics of Solidity Programming in writing Smart Contracts and Deploying them on the Remix VM.
 2. Successfully performed the Assignments given in the Tutorial.
 3. Prepare a document with Aim, Tasks performed, Program, Output and Conclusion.
 
-## Experiment  No: 3
-
-*AIM:* Implement the embedding wallet (Metamask) and transaction using Solidity 
+## Experiment  No: 3 - Implement the embedding wallet (Metamask) and transaction using Solidity 
 
 *Task to be performed:* 			
 - [Follow the GitHub repository for the experiment](https://github.com/LifnaJos/Embedding-Metamask-wallet-with-Remix-IDE-and-perform-transactions/tree/main#readme)
@@ -103,8 +98,7 @@
 2. Successfully performed the transactions on the Remix IDE via the account from Metamask Wallet
 3. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion
 
-## 	Experiment  No : 4
-*AIM:* Implement the Private Ethereum Blockchain using Geth
+## 	Experiment  No : 4 - Implement the Private Ethereum Blockchain using Geth
 
 *Task to be performed :*
 1. To install and set up an Ethereum network to create a private Ethereum blockchain for development and testing purposes. 
