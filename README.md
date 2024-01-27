@@ -15,7 +15,7 @@ Prerequisite: Introduction to Blockchain and Bitcoin
 
 **Self-learning Topics:** Study different applications of blockchain.
 
-## Module - 2: Public Blockchain						
+## [Module - 2: Public Blockchain](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/M2_BP_HD.pdf)
 Introduction, Characteristics of Public Blockchain, Advantages. Examples of Public Blockchain-Bitcoin: Terminologies and Transaction, Ethereum: Smart contract, Comparison of Bitcoin and Ethereum, Other public Blockchain platforms.
 
 **Self-learning Topics:** Study any one case study on a public blockchain
