@@ -1,5 +1,7 @@
 # List of Experiments for Extra Lab 
 
+**Note** : Perform any 2 experiments
+
 | No | Experiment List |
 | -- | --------------- |
 | 1. | [Cryptography in Blockchain, Merkle root tree hash](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md#experiment--no-1) |
