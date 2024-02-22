@@ -20,7 +20,7 @@ Introduction, Characteristics of Public Blockchain, Advantages. Examples of Publ
 
 **Self-learning Topics:** Study any one case study on a public blockchain
   
-## Module - 3:  Ethereum Blockchain									
+## [Module - 3:  Ethereum Blockchain](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/M3_BP_HD.pdf)									
 Introduction, Ethereum and Its Components: Mining, Gas, Ethereum, Ether, Ethereum Virtual Machine, Transaction, Accounts. Architecture of Ethereum, 
 Smart Contract: Remix IDE, Developing smart contracts for Ethereum blockchain, applications using smart contracts, 
 Dapp Architecture. Types of test networks used in Ethereum, Transferring Ethers Using MetaMask, Mist Wallet, Ethereum Frameworks, Case study of Ganache for Ethereum blockchain.
