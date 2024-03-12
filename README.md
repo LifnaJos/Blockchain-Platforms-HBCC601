@@ -5,10 +5,11 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | End Semester Exam | 60 Marks | |
-| 2 | Continuous Assessment | 20 Marks | |
+| 2 | Internal Assessment | 20 Marks | [Mid-Term Paper](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024.pdf), [Mid-Term Paper Solution](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024_Solution.pdf) | |
+| 3 | Continuous Assessment | 20 Marks | |
 |   | a. Case Study | 10 Marks | [List of Topics](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)|
 |   | b. Extra Lab (Perform any 2 experiments) | 10 Marks | [Experiment List](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md)|
-| 3 | Internal Assessment | 20 Marks | [Mid-Term Paper](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024.pdf), [Mid-Term Paper Solution](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024_Solution.pdf) | |
+|   | Total Marks | 100 Marks | |
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
