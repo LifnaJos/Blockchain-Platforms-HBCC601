@@ -5,8 +5,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | Continuous Assessment | 20 | |
-|   | a. [Case Study](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md) | 10 Marks | |
-|   | b. [Extra Experiment - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md) Perform any 2 experiments | 10 Marks | |
+|   | a. Case Study | 10 Marks | [List of Topics](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)|
+|   | b. Extra Lab (Perform any 2 experiments) | 10 Marks | [Experiment List](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md)|
 | 2 | Internal Assessment | 20 Marks | [Mid-Term Paper](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024.pdf), [Mid-Term Paper Solution](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024_Solution.pdf) | |
 
 Prerequisite: Introduction to Blockchain and Bitcoin
