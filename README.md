@@ -2,13 +2,12 @@
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## [Evaluation Scheme](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_HD_Sem6_Scheme.pdf)
-
-### Prefered Continuous Assessment Rubrics
-1. [Case Study - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)
-2. [Extra Experiment - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md) Perform any 2 experiments
-### Internal Assessment
-* [Mid-Term Paper](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024.pdf)
-* [Mid-Term Paper Solution](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024_Solution.pdf)
+| No | Rubrics | Marks | Document |
+| :--: | ------------------ | :----: | :--------:|
+| 1 | Continuous Assessment | 20 | |
+|   | a. [Case Study](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md) | 10 Marks | |
+|   | b. [Extra Experiment - 10 Marks](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md) Perform any 2 experiments | 10 Marks | |
+| 2 | Internal Assessment | 20 Marks | [Mid-Term Paper](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024.pdf), [Mid-Term Paper Solution](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/BP_MT_Paper_Feb_2024_Solution.pdf) | |
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
