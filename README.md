@@ -36,11 +36,13 @@ Ethereum 2., Concept of Beacon chain, POS (Proof of Stake), Shading of Chain
 ## Module - 4:  Private Blockchain								
 Introduction, Key Characteristics, Need for Private Blockchain. Consensus Algorithm for private Blockchain (Ex. RAFT and PAXOS), Smart Contract in Private Blockchain,
 
+**Extra Reading:** [Evolution of Consensus Algorithms](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00163-y#:~:text=In%20a%20blockchain%2C%20consensus%20is,and%20integrity%20of%20the%20blockchain.)
+
 **Self-learning Topics:** Case study on private blockchain.
   
 ## Module  - 5:  Hyperledger Blockchain					
 Introduction to Hyperledger, tools and frameworks, Hyperledger Fabric, Comparison between Hyperledger Fabric & Other Technologies, Distributed Ledgers. Hyperledger Fabric Architecture,
-Components of Hyperledger Fabric: MSP, Chain Codes, etc., Transaction Flow, Advantages of Hyperledger Fabric Blockchain, working of Hyperledger Fabric, Creating Hyperlegder network, 
+Components of Hyperledger Fabric: MSP, Chain Codes, etc., Transaction Flow, Advantages of Hyperledger Fabric Blockchain, working of Hyperledger Fabric, Creating Hyperlegder network,
 
 **Self-learning Topics:** Case Study
 
