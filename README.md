@@ -9,6 +9,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 3 | Continuous Assessment | 20 Marks | |
 |   | a. Case Study | 10 Marks | [List of Topics](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)|
 |   | b. Extra Lab (Perform any 2 experiments) | 10 Marks | [Experiment List](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md)|
+|   | c. Multiple Choice Questions (02) | 5 Marks Each | |
 |   | Total Marks | 100 Marks | |
 
 Prerequisite: Introduction to Blockchain and Bitcoin
