@@ -48,7 +48,7 @@ Components of Hyperledger Fabric: MSP, Chain Codes, etc., Transaction Flow, Adva
 
 **Theory:** [NPTEL Blockchain PPTs - Lecture 14 to 29](https://drive.google.com/drive/folders/1teROdBijYNhHIpIDoqd3w5cpxYZ1t9Sb?usp=sharing)
 
-## Module  - 6: Other Blockchain platforms
+## [Module  - 6: Other Blockchain platforms](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/M6_BP_HD.pdf)
 Corda, Ripple, Quorum, and other emerging blockchain platforms, Case Study on any blockchain platform.
 
 **Self-learning Topics:** Compare different blockchain platforms.
