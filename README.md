@@ -10,6 +10,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | a. Case Study | 10 Marks | [List of Topics](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/readme.md)|
 |   | b. Extra Lab (Perform any 2 experiments) | 10 Marks | [Experiment List](https://github.com/LifnaJos/HBCC601-Blockchain-Platforms/blob/main/PPT/Experiment_List.md)|
 |   | c. Multiple Choice Questions (02) | 5 Marks Each | |
+|   | d. Participation in Blockchain related Summits / Hackathons | 5 Marks each | |
+|   | e. Winners of Blockchain related HAckathons / Competitions | 10 Marks | |
 |   | Total Marks | 100 Marks | |
 
 Prerequisite: Introduction to Blockchain and Bitcoin
