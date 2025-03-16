@@ -13,6 +13,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | e. Winners of Blockchain related HAckathons / Competitions | 10 Marks | |
 |   | Total Marks | 100 Marks | |
 | 4 | Attendance  | | [2024-25](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing) | 
+| 5 | Sample Questions | [Link](https://github.com/LifnaJos/Blockchain-Platforms-HBCC601/blob/main/PPT/BP_HD_Sample%20Questions.PDF) |
+
 
 Prerequisite: Introduction to Blockchain and Bitcoin
 
