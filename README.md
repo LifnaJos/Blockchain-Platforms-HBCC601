@@ -45,7 +45,7 @@ Introduction, Key Characteristics, Need for Private Blockchain. Consensus Algori
 
 **Self-learning Topics:** Case study on private blockchain.
   
-## Module  - 5:  Hyperledger Blockchain					
+## [Module  - 5:  Hyperledger Blockchain](https://github.com/LifnaJos/Blockchain-Platforms-HBCC601/blob/main/PPT/M5_BP_HD.pdf)					
 Introduction to Hyperledger, tools and frameworks, Hyperledger Fabric, Comparison between Hyperledger Fabric & Other Technologies, Distributed Ledgers. Hyperledger Fabric Architecture,
 Components of Hyperledger Fabric: MSP, Chain Codes, etc., Transaction Flow, Advantages of Hyperledger Fabric Blockchain, working of Hyperledger Fabric, Creating Hyperlegder network,
 
